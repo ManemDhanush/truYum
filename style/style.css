@@ -1,0 +1,39 @@
+header{
+            height: 70px;
+            width: 100%;
+            margin: auto;
+            background-color: darkblue;
+    display: flex;
+        }
+        header h1{
+            padding-left: 10px;
+            color: white;
+            font-family:sans-serif;
+            padding-bottom: 20px;
+        }
+header img{
+    margin-left: 40px;
+    background-color: darkblue;
+}
+nav{
+    margin-left: 800px;
+    padding-top: 20px;
+    
+}
+nav a{
+    color: white;
+}
+        section{
+          height: 300px;
+            width: 100%;
+            margin: auto;
+            background-color:white;
+            padding-bottom: 20px;
+        }
+        footer{
+            height: 50px;
+            width: 100%;
+            margin: auto;
+            background-color:darkgrey;
+            padding-top: 10px;
+        }
